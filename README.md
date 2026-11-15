@@ -9,9 +9,9 @@ The efficacy benchmark's round reports live with the benchmark, in
 
 ## Layout
 
-| Path | Holds |
-|------|-------|
-| `reports/YYYY-MM-DD-360.md` | A 360 audit |
+| Path                           | Holds                                |
+| ------------------------------ | ------------------------------------ |
+| `reports/YYYY-MM-DD-360.md`    | A 360 audit                          |
 | `reports/YYYY-MM-DD-<kind>.md` | Any other review, named for its kind |
 
 - A report is a record of its date; it is never edited after it merges
